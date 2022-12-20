@@ -1,1 +1,1 @@
-ContactsAPI - Full Project CRUD Operation Using ASPNET CORE 6 WEB API
+ContactsAPI - Full Project CRUD Operation Using ASPNET CORE 6 WEB API and SQL Server
